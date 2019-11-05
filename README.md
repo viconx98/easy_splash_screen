@@ -1,6 +1,10 @@
-# splash_screen_demo
+# Easy Splash Screen
 
-A new Flutter application.
+A Flutter application showing an easy way to create a neat splash screen for any app.
+
+## Relevant YouTube Video
+
+https://youtu.be/FOudbhjfass
 
 ## Getting Started
 
