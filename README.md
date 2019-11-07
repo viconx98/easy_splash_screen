@@ -2,6 +2,10 @@
 
 A Flutter application showing an easy way to create a neat splash screen for any app.
 
+## End Result
+
+![](example.gif)
+
 ## Relevant YouTube Video
 
 https://youtu.be/FOudbhjfass
